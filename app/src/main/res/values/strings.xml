@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PlayVideosDemoProject</string>
+    <string name="title">Videos</string>
+    <string name="connection_failure">Internet Connectivity Failure</string>
+</resources>
